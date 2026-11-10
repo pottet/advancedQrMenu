@@ -118,3 +118,4 @@ masa kartlarını yazdırın. (Statik barındırma yeterlidir; sunucu/veritaban�
 - Diğer yemek fotoğrafları: [TheMealDB](https://www.themealdb.com) — yalnızca demo amaçlı;
   yayına almadan önce kendi fotoğraflarınızla değiştirin.
 # advancedQrMenu
+# advancedQrMenu
